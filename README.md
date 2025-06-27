@@ -12,3 +12,8 @@ Python Data Structures (https://coursera.org/share/53b26130b640578bcf3ef454ef588
 Programming for Everybody (Getting Started with Python) (https://www.coursera.org/account/accomplishments/verify/WWSCZQNAGVVC?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
 C for Everyone: Programming Fundamentals (https://coursera.org/share/32cab35c89ef4941a1dc5029c070711e)
+
+Deloitte Australia Technology Job Simulation – Forage 
+
+J.P. Morgan's Software Engineering – Forage
+
