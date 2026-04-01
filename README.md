@@ -19,3 +19,6 @@ J.P. Morgan's Software Engineering – Forage
 
 Meta Front-End Developer (https://coursera.org/share/324584a1d4e7123290fe7ccc92bbdb63)
 
+Self Paced AWS Cloud PRactitioner GeeksforGeeks
+
+Self Paced AWS solution Architect GeeksforGeeks
